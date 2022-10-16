@@ -46,7 +46,7 @@ Find the `index.js` file and complete the tasks as written.
 ### Testing & Debugging
 
 Open a second terminal inside of your project by clicking on the split terminal icon
-![alt text](assets/split_terminal.png "Split Terminal")
+![alt text](assets/split_terminal.png "Split Terminal") 
 
 Inside of your second terminal type `npm start` 
 ![alt text](assets/npm_start.png "type npm start")
